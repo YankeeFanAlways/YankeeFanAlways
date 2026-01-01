@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YankeeFanAlways (aka Sky)
-- 👀 I’m interested in python
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in python, JS, Node, SQL, Mongo, Vercel, etc.
+- 🌱 I’m a software enginner 100Devs
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: I am a lifelong Yankees fan and win or lose they are my team!
 
