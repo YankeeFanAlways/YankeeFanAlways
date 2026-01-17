@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YankeeFanAlways (aka Sky)
+- 👋 Hi, I’m @YankeeFanAlways
 - 🌱 I’m a software enginner 100Devs
  
 
