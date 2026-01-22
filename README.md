@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YankeeFanAlways
-- 🌱 I’m a software enginner 100Devs
+- 🌱 I’m a software engineer 100Devs
  
 
 <!---
